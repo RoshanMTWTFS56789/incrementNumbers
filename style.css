@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #30336b;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.719);
+}
+span {
+  font-size: 30px;
+}
+.conatiner {
+  margin: 100px;
+}
+.counter {
+  color: aqua;
+  font-size: 40px;
+}
+
+i {
+  padding-bottom: 20px;
+}
